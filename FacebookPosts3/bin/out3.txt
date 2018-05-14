@@ -1,0 +1,30 @@
+Вандалы украли бронзовые гирлянды с памятника Лесе Украинке на кладбище в Киеве
+https://korrespondent.net/city/kiev/3944722-v-kyeve-snova-oskvernyly-mohylu-lesy-ukraynky Sentiment Polarity  : neutral, Polarity Confidence  : 0,891975820064545, Subjectivity  : subjective, Subjectivity Confidence  : 0,562500475237744
+Украина из-за похолодания начала отбирать более 100 млн кубометров газа в сутки из подземных хранилищ Sentiment Polarity  : neutral, Polarity Confidence  : 0,433755040168762, Subjectivity  : objective, Subjectivity Confidence  : 0,507379052573343
+Государственная служба Украины по лекарственным средствам и контролю за наркотиками запретила партию вакцины от кори, паротита и краснухи Приорикс Sentiment Polarity  : neutral, Polarity Confidence  : 0,407149076461792, Subjectivity  : subjective, Subjectivity Confidence  : 0,679696779803197
+Украинский боксер Артем Далакян завоевал титул чемпиона мира по версии WBA, выиграв бой у американца Брайана Вилория Sentiment Polarity  : neutral, Polarity Confidence  : 0,464446187019348, Subjectivity  : objective, Subjectivity Confidence  : 0,518676817220178
+Российским олимпийцам не разрешили пройти под национальным флагом на церемонии закрытия Олимпиады-2018 Sentiment Polarity  : neutral, Polarity Confidence  : 0,407149076461792, Subjectivity  : subjective, Subjectivity Confidence  : 0,721839410974225
+Стало известно, кто представит Украину на Евровидении-2018 (ВИДЕО) Sentiment Polarity  : neutral, Polarity Confidence  : 0,407149076461792, Subjectivity  : subjective, Subjectivity Confidence  : 0,670964387222378
+Думаете это чудо? А, нет. Это теплоэлектростанция Ахметова. Sentiment Polarity  : neutral, Polarity Confidence  : 0,614462196826935, Subjectivity  : subjective, Subjectivity Confidence  : 0,635756892761076
+Элина продолжает радовать всю страну! С победой!!! Sentiment Polarity  : positive, Polarity Confidence  : 0,486992746591568, Subjectivity  : objective, Subjectivity Confidence  : 0,995577026520652
+После того как у украинки случился инсульт польский работодатель вывез ее в соседний район и бросил на автобусной остановке Sentiment Polarity  : neutral, Polarity Confidence  : 0,407149076461792, Subjectivity  : subjective, Subjectivity Confidence  : 0,605509456535909
+Ранее работа мобильного оператора Vodafone-Украина была прекращена на подконтрольной сепаратистам территории Луганской области из-за обрыва линии. Sentiment Polarity  : neutral, Polarity Confidence  : 0,407149076461792, Subjectivity  : subjective, Subjectivity Confidence  : 0,563310306958234
+Эксплуатация газопровода исключена из-за угрозы жизни и здоровью населения. Sentiment Polarity  : neutral, Polarity Confidence  : 0,407149076461792, Subjectivity  : subjective, Subjectivity Confidence  : 0,566724865467265
+Задержанием украинского хакера в Польше занимались местные правоохранители совместно с ФБР. Sentiment Polarity  : neutral, Polarity Confidence  : 0,407149076461792, Subjectivity  : subjective, Subjectivity Confidence  : 0,636737093792577
+В субботу, 24 февраля, вступил в силу закон о реинтеграции Донбасса Sentiment Polarity  : neutral, Polarity Confidence  : 0,433755040168762, Subjectivity  : objective, Subjectivity Confidence  : 0,895885920692913
+Растерзанное тело нашли родители девочки. Sentiment Polarity  : neutral, Polarity Confidence  : 0,407149076461792, Subjectivity  : subjective, Subjectivity Confidence  : 0,540908891903057
+Экс-главу предвыборного штаба Трампа подозревают в подкупе европейских политиков с целью продвижения интересов Януковича. Sentiment Polarity  : neutral, Polarity Confidence  : 0,407149076461792, Subjectivity  : subjective, Subjectivity Confidence  : 0,666972796565436
+В ЦИК России заверили, что выборы президента в Крыму и Севастополе пройдут, несмотря на протест Украины. Sentiment Polarity  : neutral, Polarity Confidence  : 0,407149076461792, Subjectivity  : objective, Subjectivity Confidence  : 0,524200517867906
+Президент США заявил, что Россия наряду с Ираном и сирийскими властями несет ответственность за гуманитарный кризис в Сирии. Sentiment Polarity  : neutral, Polarity Confidence  : 0,407149076461792, Subjectivity  : subjective, Subjectivity Confidence  : 0,571736830454602
+Киев не вернет деньги ЕС за пограничные проекты
+https://goo.gl/ESuPSh Sentiment Polarity  : neutral, Polarity Confidence  : 0,891975820064545, Subjectivity  : subjective, Subjectivity Confidence  : 0,743908708731783
+Украина собирается построить сверхскоростную систему поездов Hyperloop.
+
+Что это такое, зачем он Украине и каковы шансы его реализации. Sentiment Polarity  : neutral, Polarity Confidence  : 0,407149076461792, Subjectivity  : objective, Subjectivity Confidence  : 0,994988256591667
+История, поражающая своей глупостью. Европа сворачивает проект по развитию украинских КПП. И даже требует деньги обратно. Sentiment Polarity  : neutral, Polarity Confidence  : 0,407149076461792, Subjectivity  : subjective, Subjectivity Confidence  : 0,507678843162889
+Военнослужащие Национальной гвардии прошлись по Кривому Рогу с советскими флагами. Больше фото на сайте Sentiment Polarity  : neutral, Polarity Confidence  : 0,407149076461792, Subjectivity  : subjective, Subjectivity Confidence  : 0,588977548547636
+Спецпроект
+Проголосуй в проекте «Горнолыжные курорты» за один из понравившихся и получи в подарок уикенд в горах. Финал голосования 25 февраля. Спеши получить подарок!
+http://skiwithsuzuki.korrespondent.net Sentiment Polarity  : neutral, Polarity Confidence  : 0,865341901779175, Subjectivity  : objective, Subjectivity Confidence  : 0,709550191082853
+Круг замкнулся. Вятрович задумался над декоммунизацией Верховной Рады. Sentiment Polarity  : neutral, Polarity Confidence  : 0,407149076461792, Subjectivity  : subjective, Subjectivity Confidence  : 0,559120448705787
+Неожиданно. Ученые Королевского колледжа Лондона заявили об опасности, которую несут в себе фруктовые чаи. Sentiment Polarity  : neutral, Polarity Confidence  : 0,407149076461792, Subjectivity  : subjective, Subjectivity Confidence  : 0,536824033645373
